@@ -11,7 +11,7 @@ const Blogs = () => {
                 </article>
                 <article className="border h-96 p-8 mx-4">
                     <h2 className='text-3xl font-semibold mb-3'>What is Sementic Tag ?</h2>
-                    <p>A semantic element clearly describes why it is used for and it's understandable to developer and browser.Using semantic tags gives you many more hooks for styling your content</p>
+                    <p>The purpose of a semantic element is clearly stated, and it is understandable to both developers and browsers. When you use semantic tags, you get a lot more hooks for decorating your information.</p>
                 </article>
 
                 <article className="border h-96 p-8 mx-4">
