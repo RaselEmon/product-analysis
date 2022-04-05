@@ -17,7 +17,7 @@ const Blogs = () => {
                 <article className="border h-96 p-8 mx-4">
                     <h2 className='text-3xl font-semibold mb-3'>what is the difference between inline vs inline-block vs block element?</h2>
                     <p>
-                        <span className='text-xl font-bold'>inline</span>: The element doesn’t start on a new line and You can’t set the width or height. <br /> <br />
+                        <span className='text-xl font-bold'>inline</span>: You can't change the width or height of the element, and it doesn't start on a new line. <br /> <br />
                         <span className='text-xl font-bold'>inline-block</span>: It’s formatted just like the inline element, BUT, you can set width and height.
                         <br />
                         <br />
